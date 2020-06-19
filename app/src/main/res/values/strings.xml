@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyContacts</string>
+    <string name="contactName">Name is displayed here</string>
+    <string name="phonennumber">phoneNnumber</string>
 </resources>
